@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"67884d219f13d718","type":"file","file":"GIFs/ListMain.gif","x":-480,"y":-420,"width":400,"height":300},
+		{"id":"c0d9d4670035e593","x":-480,"y":380,"width":400,"height":300,"type":"file","file":"_1_JhaC3plXh3ZI_5sWof6bXQ.gif"},
+		{"id":"9963dbe17d8ab160","type":"file","file":"GIFs/WeightScale.gif","x":-480,"y":-20,"width":400,"height":300},
+		{"id":"fd3f53a6e3e66d86","x":60,"y":-420,"width":400,"height":300,"type":"file","file":"1_BgpXm8HA_tgNOK1tvlomEw.gif"},
+		{"id":"1d868296c51a6f41","type":"file","file":"GIFs/SurveyStyle.gif","x":60,"y":-20,"width":400,"height":300},
+		{"id":"a4bbdb33ed21df88","x":60,"y":380,"width":400,"height":300,"type":"file","file":"1_Asdi0mDbRiuOLVaoBgqD5g.gif"}
+	],
+	"edges":[]
+}
